@@ -8,8 +8,8 @@
 
 name: Merge-upstream
 
-on:
-  push:
+# on:
+#   push:
     branches: 
       - master
   schedule:
